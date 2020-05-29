@@ -1,0 +1,6 @@
+framework module Pods_TapChat {
+  umbrella header "Pods-TapChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
